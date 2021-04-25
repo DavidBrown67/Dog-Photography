@@ -15,7 +15,8 @@
   * User Stories
   * Website Goals
 * Wireframes
-* Features
+* Design
+* Styling
 * Technologies Used
   * Languages
   * Tools & Libraries
@@ -56,3 +57,21 @@
 
 
 ## Wireframes
+<p> I have used Balsamic to design the wireframes for the mobile, tablet and desktop versions of the website
+
+## Design
+<p>I will use Bootstrap, HTML5 and CSS3 to structure and style the website.
+<p>The website will incorporate
+
+* Fixed Navigation Bar, with links to the 5 sections
+* A Footer section, with social media links and copyright information
+<p>The website will be a single page, scrollable site, with 5 sections.
+
+* Home
+* About
+* Portfolio
+* Price List
+* Contact 
+
+
+
