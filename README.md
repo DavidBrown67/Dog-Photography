@@ -48,5 +48,9 @@
 * As a user, I want to see examples of works produced
 * As a user, I want a website visably pleasing to view
 
+## Website Goals
 
+* To attract and retain potential clients
+* To provide a 'niche' service 
+* Grow the business
 
