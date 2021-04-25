@@ -19,7 +19,9 @@
 * Styling
 * Technologies Used
   * Languages
-  * Tools & Libraries
+  * Libraries & Frameworks
+  * Workspace, Version Control & Repository
+  * Resources
 * Testing
 * Deployment
 * Credits
@@ -112,6 +114,13 @@
 * Git
 * Github
   
-  ###R
+### Resources
+* Code Institute Course Content
+* Youtube
+* W3schools
+* Google Fonts
+* Font Awesome
+* Coolors
+* Balsamiq
 
 
