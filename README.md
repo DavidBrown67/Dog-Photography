@@ -73,5 +73,26 @@
 * Price List
 * Contact 
 
+## Styling
+<p>I want to have clean, contemparary page with a calm, relaxing enviornment that I feel will compliment a client with dogs emotionally.
+
+
+### Fonts
+<p>The fonts to be used are .......
+<p>The fonts selected will come from Google Fonts
+
+### Colours
+<p> The colours selected are......
+<p>I want to use colours that are subtle and calming that have a connection with colours from nature
+<p>I used Coolors to give me a complementary range of colours for the site
+
+### Icons
+<p> I will use Font Awesome website for Icons that will compliment my website
+
+### Images
+<p>For the portfolio, I will use photos I have taken. 
+<p>The photo on the contact form is from free stock photos at .......
+
+
 
 
