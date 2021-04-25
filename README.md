@@ -9,7 +9,7 @@
 
 ---
 
-# Contents
+## Contents
 * UX
   * User Goals
   * User Stories
@@ -25,5 +25,21 @@
 * Testing
 * Deployment
 * Credits
+
+# UX
+
+---
+## User Goals
+
+* A reponsive website, accessable with a mobile, tablet or computer
+* A feature rich enviroment
+* Intuitive, interactive website
+* Visually appealing components
+* Information about the Photographer
+* Portfolio of work
+* Pricing information
+* Contact details
+* Links to 'Social Media' sites
+
 
 
