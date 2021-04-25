@@ -94,5 +94,12 @@
 <p>The photo on the contact form is from free stock photos at .......
 
 
+## Technologies Used
+### Languages
+* HTML5
+* CSS3
+
+  
+
 
 
