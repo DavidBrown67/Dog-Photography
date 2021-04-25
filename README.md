@@ -100,6 +100,11 @@
 * CSS3
 
   
-
+### Libraries & Frameworks
+* Bootstrap
+* Google Fonts
+* Font Awesome
+* Stock photos
+* Personal Photos
 
 
