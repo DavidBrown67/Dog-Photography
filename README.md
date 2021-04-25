@@ -13,10 +13,7 @@
 * UX
   * User Goals
   * User Stories
-  * Site Owners Goals
-  * User Requirements & Expectations
-    * Requirements
-    * Expectations
+  * Website Goals
 * Wireframes
 * Features
 * Technologies Used
@@ -39,7 +36,17 @@
 * Portfolio of work
 * Pricing information
 * Contact details
+* Location information
 * Links to 'Social Media' sites
+
+## User Stories
+
+* As a user, I want a website easy to navigate
+* As a user, I want clear information of pricing
+* As a user, I want to be able to contact the photographer
+* As a user, I want to feel happy to use this person
+* As a user, I want to see examples of works produced
+* As a user, I want a website visably pleasing to view
 
 
 
