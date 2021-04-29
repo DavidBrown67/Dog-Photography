@@ -101,7 +101,8 @@ I will use icons to make the site more visably appealing to the user. They will 
 I have used [Font Awesome library](https://fontawesome.com/ "Font Awesome"), to choose the icons
 
 ### Images
-
+For the carousel and the portfolio the images are from my own personal collection.
+The image for the contact section is a stock photo from a google serarch, found here ********
 
 
 ## Technologies Used
