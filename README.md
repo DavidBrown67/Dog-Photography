@@ -90,7 +90,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
 ## Design
 I want my website to be a calm and inviting place for the user that I feel befits people with dogs. 
 Therefore, I want to use colours that reflect this enviornment.
-I used [Coolors](https://coolors.co/ "Coolors.co") to choose a suitable colour scheme
+I used [Coolors](https://coolors.co/ "Coolors.co") to choose a suitable colour scheme.
 
 
 
