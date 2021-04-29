@@ -21,9 +21,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
       - [Requirements](#requirements)
       - [Expectations](#expectations)
   - [Design](#design)
-  - [Styling](#styling)
     - [Fonts](#fonts)
-    - [Colours](#colours)
     - [Icons](#icons)
     - [Images](#images)
   - [Technologies Used](#technologies-used)
@@ -92,20 +90,11 @@ I want my website to be a calm and inviting place for the user that I feel befit
 Therefore, I want to use colours that reflect this enviornment.
 I used [Coolors](https://coolors.co/ "Coolors.co") to choose a suitable colour scheme.
 
-
-
-## Styling
-<p>I want to have clean, contemparary page with a calm, relaxing enviornment that I feel will compliment a client with dogs emotionally.
-
-
 ### Fonts
-<p>The fonts to be used are .......
-<p>The fonts selected will come from Google Fonts
+Because the website is designed to be a emotionally connective environment. I wanted the font selection to be in keeping with this.
+I used [Google Fonts](https://fonts.google.com/ "Google Fonts") to choose a style
+The style i went with is.........
 
-### Colours
-<p> The colours selected are......
-<p>I want to use colours that are subtle and calming that have a connection with colours from nature
-<p>I used Coolors to give me a complementary range of colours for the site
 
 ### Icons
 <p> I will use Font Awesome website for Icons that will compliment my website
