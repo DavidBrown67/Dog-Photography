@@ -2,30 +2,34 @@
 
 # Goal For This Project
 ---
-<p>For people who are looking for beautiful photos of their dog(s).
-<p>On this intuitive website, the visitor will find all the information they would require about the Dog Photographer.
-<p>The site is set out in a simple to follow scrolling one sheet set up.<p>
-<p>Thanks for visitiing my project. Any feedback is appriciated via GitHub.
+For people who are looking for beautiful photos of their dog(s).
+On this intuitive website, the visitor will find all the information they would require about the Dog Photographer.
+The site is set out in a simple to follow scrolling one sheet set up.
+Thanks for visitiing my project. Any feedback is appriciated via GitHub.
 
 ---
 
-## Contents
-* UX
-  * User Goals
-  * User Stories
-  * Website Goals
-* Wireframes
-* Design
-* Styling
-* Technologies Used
-  * Languages
-  * Libraries & Frameworks
-  * Workspace, Version Control & Repository
-  * Resources
-* Testing
-* Deployment
-* Credits
-
+## Table of Contents 
+- [Dog Photography](#dog-photography)
+  - [# Goal For This Project](#-goal-for-this-project)
+  - [Table of Contents](#table-of-contents)
+- [UX](#ux)
+  - [User Goals](#user-goals)
+  - [User Stories](#user-stories)
+  - [Website Goals](#website-goals)
+  - [Wireframes](#wireframes)
+  - [Design](#design)
+  - [Styling](#styling)
+    - [Fonts](#fonts)
+    - [Colours](#colours)
+    - [Icons](#icons)
+    - [Images](#images)
+  - [Technologies Used](#technologies-used)
+    - [Languages](#languages)
+    - [Libraries & Frameworks](#libraries--frameworks)
+    - [Workspace, Version Control & Repository](#workspace-version-control--repository)
+    - [Resources](#resources)
+  - [Testing](#testing)
 # UX
 
 ---
@@ -50,12 +54,21 @@
 * As a user, I want to feel happy to use this person
 * As a user, I want to see examples of works produced
 * As a user, I want a website visably pleasing to view
+* As a user, I want to see a portfolio of images
+* As a user, I want a website that easy to use on a tablet
+* As a user, I want a website easy to use on a smartphone
+* As a user, I want feel confident to use this photographer
+* As a user, I want to know more about the photographer
+* As a user, I want my dog to feel comfortable with the photographer
+* As a user, I want people to recommend my website
+* As a user, i want links to social meadia that open in a new tab
 
 ## Website Goals
 
 * To attract and retain potential clients
 * To provide a 'niche' service 
 * Grow the business
+* Stand out from the crowd
 
 
 ## Wireframes
@@ -98,14 +111,14 @@
 
 ## Technologies Used
 ### Languages
-* HTML5
-* CSS3
+* HTML
+* CSS
 
-  
+   
 ### Libraries & Frameworks
 * Bootstrap
 * Google Fonts
-* Font Awesome
+* Font Awesom
 * Stock photos
 * Personal Photos
 
