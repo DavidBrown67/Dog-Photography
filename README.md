@@ -17,6 +17,9 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
   - [User Goals](#user-goals)
   - [User Stories](#user-stories)
   - [Website Goals](#website-goals)
+  - [User Requirements and Expectations](#user-requirements-and-expectations)
+      - [Requirements](#requirements)
+      - [Expectations](#expectations)
   - [Wireframes](#wireframes)
   - [Design](#design)
   - [Styling](#styling)
@@ -70,9 +73,24 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
 * Grow the business
 * Stand out from the crowd
 
+## User Requirements and Expectations
+
+#### Requirements
+* Navigating the website to be intuitive
+* Relevent content required for the user
+* Visually appealing interface
+* Contacting the photographer should be simple
+* Clear information about prices
+
+
+#### Expectations
+* All parts of the website shall work smoothly
+* Confirmation shall be provided when submitting the contact form
+* All links to shall open the correct information in a new tab
 
 ## Wireframes
-<p> I have used Balsamic to design the wireframes for the mobile, tablet and desktop versions of the website
+
+I have used Balsamic to design the wireframes for the mobile, tablet and desktop versions of the website
 
 ## Design
 <p>I will use Bootstrap, HTML5 and CSS3 to structure and style the website.
