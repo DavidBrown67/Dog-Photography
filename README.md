@@ -25,12 +25,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
     - [Icons](#icons)
     - [Images](#images)
     - [Colours](#colours)
-  - [Technologies Used](#technologies-used)
-    - [Languages](#languages)
-    - [Libraries & Frameworks](#libraries--frameworks)
-    - [Workspace, Version Control & Repository](#workspace-version-control--repository)
-    - [Resources](#resources)
-  - [Testing](#testing)
+    - [Structure](#structure)
 # UX
 
 ---
@@ -109,34 +104,10 @@ The image for the contact section is a stock photo from a google serarch, found 
 The reason I have choosen this pallete, is that I feel the colours suit the style I wanted to give. A calm inviting place, engaging the emotions of a dog owner.
 The colour scheme I have chosen can be seen here *****
 
-## Technologies Used
-### Languages
-* HTML
-* CSS
-
-   
-### Libraries & Frameworks
-* Bootstrap
-* Google Fonts
-* Font Awesom
-* Stock photos
-* Personal Photos
-
-### Workspace, Version Control & Repository
-* Gitpod
-* Git
-* Github
-  
-### Resources
-* Code Institute Course Content
-* Youtube
-* W3schools
-* Google Fonts
-* Font Awesome
-* Coolors
-* Balsamiq
-
-
-## Testing
+### Structure
+To build the structure of the website, I have gone with
+[Bootstrap](https://getbootstrap.com/) 
+This will give the foundation to construct a responsive website, that I can then style with CSS.
+Bootstrap is mobile first by default and I can adapt to work with tablets and computers
 
 
