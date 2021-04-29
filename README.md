@@ -20,7 +20,6 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
   - [User Requirements and Expectations](#user-requirements-and-expectations)
       - [Requirements](#requirements)
       - [Expectations](#expectations)
-  - [Wireframes](#wireframes)
   - [Design](#design)
   - [Styling](#styling)
     - [Fonts](#fonts)
@@ -88,23 +87,12 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
 * Confirmation shall be provided when submitting the contact form
 * All links to shall open the correct information in a new tab
 
-## Wireframes
-
-I have used Balsamic to design the wireframes for the mobile, tablet and desktop versions of the website
-
 ## Design
-<p>I will use Bootstrap, HTML5 and CSS3 to structure and style the website.
-<p>The website will incorporate
+I want my website to be a calm and inviting place for the user that I feel befits people with dogs. 
+Therefore, I want to use colours that reflect this enviornment.
+I used [Coolors](https://coolors.co/ "Coolors.co") to choose a suitable colour scheme
 
-* Fixed Navigation Bar, with links to the 5 sections
-* A Footer section, with social media links and copyright information
-<p>The website will be a single page, scrollable site, with 5 sections.
 
-* Home
-* About
-* Portfolio
-* Price List
-* Contact 
 
 ## Styling
 <p>I want to have clean, contemparary page with a calm, relaxing enviornment that I feel will compliment a client with dogs emotionally.
