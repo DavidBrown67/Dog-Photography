@@ -97,11 +97,11 @@ The style i went with is.........
 
 
 ### Icons
-<p> I will use Font Awesome website for Icons that will compliment my website
+I will use icons to make the site more visably appealing to the user. They will be in keeping with the style of the site.
+I have used [Font Awesome library](https://fontawesome.com/ "Font Awesome"), to choose the icons
 
 ### Images
-<p>For the portfolio, I will use photos I have taken. 
-<p>The photo on the contact form is from free stock photos at .......
+
 
 
 ## Technologies Used
