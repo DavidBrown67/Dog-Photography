@@ -24,6 +24,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
     - [Fonts](#fonts)
     - [Icons](#icons)
     - [Images](#images)
+    - [Colours](#colours)
   - [Technologies Used](#technologies-used)
     - [Languages](#languages)
     - [Libraries & Frameworks](#libraries--frameworks)
@@ -104,6 +105,9 @@ I have used [Font Awesome library](https://fontawesome.com/ "Font Awesome"), to 
 For the carousel and the portfolio the images are from my own personal collection.
 The image for the contact section is a stock photo from a google serarch, found here ********
 
+### Colours
+The reason I have choosen this pallete, is that I feel the colours suit the style I wanted to give. A calm inviting place, engaging the emotions of a dog owner.
+The colour scheme I have chosen can be seen here *****
 
 ## Technologies Used
 ### Languages
