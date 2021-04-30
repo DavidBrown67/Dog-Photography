@@ -26,6 +26,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
     - [Images](#images)
     - [Colours](#colours)
     - [Structure](#structure)
+  - [**Wireframes**](#wireframes)
 # UX
 
 ---
@@ -111,3 +112,9 @@ This will give the foundation to construct a responsive website, that I can then
 Bootstrap is mobile first by default and I can adapt to work with tablets and computers
 
 
+## **Wireframes**
+I have used [Balsamic](https://balsamiq.com/wireframes/) to create the wireframes for my website. 
+I have created a basic wireframe for desktop and mobile. 
+The website is a single scrolling page, that will provide a focused, simple to navigate place for the user experience
+
+View the wireframes:
