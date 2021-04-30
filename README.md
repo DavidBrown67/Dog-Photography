@@ -1,17 +1,19 @@
 # **Dog Photography Website**
 
-# **Goal For This Project**
----
+## **Goal For This Project**
+
 For people who are looking for beautiful photos of their dog(s).
-On this intuitive website, the visitor will find all the information they would require about the Dog Photographer.
+I want the website to engage the emotions of dog owners. 
+Using this website, the user will find all the information they would require about the Dog Photographer.
 The site is set out in a simple to follow scrolling one sheet set up.
-Thanks for visitiing my project. Any feedback is appriciated via GitHub.
+Thanks for visitiing my project. 
+Any feedback is appriciated via GitHub.
 
 ---
 
 ## **Table of Contents** 
 - [**Dog Photography Website**](#dog-photography-website)
-  - [# **Goal For This Project**](#-goal-for-this-project)
+  - [**Goal For This Project**](#goal-for-this-project)
   - [**Table of Contents**](#table-of-contents)
 - [**UX**](#ux)
   - [**User Goals**](#user-goals)
@@ -21,7 +23,6 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
   - [**User Requirements and Expectations**](#user-requirements-and-expectations)
       - [**Requirements**](#requirements)
       - [**Expectations**](#expectations)
-  - [* All links to shall open the correct information in a new tab](#-all-links-to-shall-open-the-correct-information-in-a-new-tab)
   - [**Design**](#design)
     - [**Fonts**](#fonts)
     - [**Icons**](#icons)
@@ -31,7 +32,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
     - [**Wireframes**](#wireframes)
     - [**View the Wireframes here:**](#view-the-wireframes-here)
     - [Desktop Wireframe](#desktop-wireframe)
-  - [### Mobile Wireframe](#-mobile-wireframe)
+    - [Mobile Wireframe](#mobile-wireframe)
   - [**Features**](#features)
     - [**Existing Features**](#existing-features)
       - [**Navigation**](#navigation)
@@ -42,10 +43,14 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
       - [**Contact**](#contact)
       - [**Footer**](#footer)
     - [**Features Requiring Future Implemention**](#features-requiring-future-implemention)
+  - [**Technologies Used**](#technologies-used)
+    - [**Languages**](#languages)
+    - [**Libraries & Frameworks**](#libraries--frameworks)
+    - [**Tools**](#tools)
+  - [**Testing**](#testing)
 
 # **UX**
 
----
 ## **User Goals**
 
 * A reponsive website, accessable with a mobile, tablet or computer
@@ -58,6 +63,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
 * Contact details
 * Location information
 * Links to 'Social Media' sites
+[Back to Top](#table-of-contents)
 
 ## **User Stories**
 
@@ -82,6 +88,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
 * To provide a 'niche' service 
 * Grow the business
 * Stand out from the crowd
+  [Back to Top](#table-of-contents)
 
 ## **User Requirements and Expectations**
 
@@ -97,6 +104,9 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
 * All parts of the website shall work smoothly
 * Confirmation shall be provided when submitting the contact form
 * All links to shall open the correct information in a new tab
+
+[Back to Top](#table-of-contents)
+
 ---
 ## **Design**
 I want my website to be a calm and inviting place for the user that I feel befits people with dogs. 
@@ -127,6 +137,8 @@ This will give the foundation to construct a responsive website, that I can then
 Bootstrap is mobile first by default and this will allow me to adapt the website for tablets and computers
 
 
+[Back to Top](#table-of-contents)
+
 ### **Wireframes**
 I have used **[Balsamic](https://balsamiq.com/wireframes/)** to create the wireframes for my website. 
 I have created a basic wireframe for desktop and mobile. 
@@ -135,6 +147,10 @@ The website is a single scrolling page, that will provide a focused, simple to n
 ### **View the Wireframes here:**
 ### [Desktop Wireframe](wireframes/desktop-wireframe.png)
 ### [Mobile Wireframe](wireframes/mobile-wireframe.png)
+
+
+[Back to Top](#table-of-contents)
+
 ---
 ## **Features**
 ### **Existing Features**
@@ -170,3 +186,32 @@ A copyright to protect the photographer's rights
 * A link to a booking page when selecting a price package
 * A contact section that will link to the photographer's email
 * A contract to be completed when booking a photography package
+
+
+[Back to Top](#table-of-contents)
+___
+  
+## **Technologies Used**
+### **Languages**
+
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### **Libraries & Frameworks**
+* [Bootstrap](https://getbootstrap.com/)
+* [Font Awesome](https://fontawesome.com/)
+* [Google Fonts](https://fonts.google.com/)
+
+### **Tools**
+* [Git](https://git-scm.com/)
+* [GitPod](https://www.gitpod.io/)
+* [Balsamic](https://balsamiq.com/wireframes/)
+* [W3C HTML Validation Service](https://validator.w3.org/)
+* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+* [techsini](http://techsini.com/)
+* [Tiny PNG](https://tinypng.com/)
+
+
+[Back to Top](#table-of-contents)
+___
+## **Testing**
