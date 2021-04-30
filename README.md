@@ -41,6 +41,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
       - [**Prices**](#prices)
       - [**Contact**](#contact)
       - [**Footer**](#footer)
+    - [**Features Requiring Future Implemention**](#features-requiring-future-implemention)
 
 # **UX**
 
@@ -105,7 +106,7 @@ I used [Coolors](https://coolors.co/ "Coolors.co") to choose a suitable colour s
 ### **Fonts**
 Because the website is designed to be a emotionally connective environment. I wanted the font selection to be in keeping with this.
 I used [Google Fonts](https://fonts.google.com/ "Google Fonts") to choose a style
-The style i went with is.........
+The style I went with is.........
 
 
 ### **Icons**
@@ -114,7 +115,7 @@ I have used [Font Awesome library](https://fontawesome.com/ "Font Awesome"), to 
 
 ### **Images**
 For the carousel and the portfolio the images are from my own personal collection.
-The image for the contact section is a stock photo from a google serarch, found here ********
+The image for the contact section is a stock photo from a google search, found here ********
 
 ### **Colours**
 The reason I have choosen this pallete, is that I feel the colours suit the style I wanted to give. A calm inviting place, engaging the emotions of a dog owner.
@@ -146,7 +147,8 @@ Below the Navbar, I have used a carousel to provide a sliding view showing image
 I want the user to image their dog having images like these
 
 #### **About**
-the next section has an image of myself, the photographer with my dog Jasper. Within this section, is information about myself. I want the user develop a connection through reading the About section 
+the next section has an image of myself, the photographer with my dog Jasper. Within this section, is information about myself. 
+I want the user develop a connection through reading the About section 
 
 #### **Portfolio**
 This section will display a portfolio of images
@@ -160,5 +162,11 @@ I wanted to give a clear seperation and uniformity for this section
 A contact section will allow the user to ask the photographer further information specific to their requirements
 
 #### **Footer**
-The footer will have links to social media sites that will open in a new tab.
-The icons will be taken from the **[Font Awesome](https://fontawesome.com/)** website
+The footer will have links to social media homepage, that will open in a new tab.
+The icons are taken from the **[Font Awesome](https://fontawesome.com/)** website
+A copyright to protect the photographer's rights
+
+### **Features Requiring Future Implemention**
+* A link to a booking page when selecting a price package
+* A contact section that will link to the photographer's email
+* A contract to be completed when booking a photography package
