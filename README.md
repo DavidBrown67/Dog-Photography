@@ -16,21 +16,25 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
 - [**UX**](#ux)
   - [**User Goals**](#user-goals)
   - [**User Stories**](#user-stories)
+  - [* As a user, i want links to social meadia that open in a new tab](#-as-a-user-i-want-links-to-social-meadia-that-open-in-a-new-tab)
   - [**Website Goals**](#website-goals)
-  - [User Requirements and Expectations](#user-requirements-and-expectations)
+  - [**User Requirements and Expectations**](#user-requirements-and-expectations)
       - [**Requirements**](#requirements)
       - [**Expectations**](#expectations)
+  - [* All links to shall open the correct information in a new tab](#-all-links-to-shall-open-the-correct-information-in-a-new-tab)
   - [**Design**](#design)
     - [**Fonts**](#fonts)
     - [**Icons**](#icons)
     - [**Images**](#images)
     - [**Colours**](#colours)
     - [**Structure**](#structure)
-  - [**Wireframes**](#wireframes)
-  - [**View the wireframes here:**](#view-the-wireframes-here)
+    - [**Wireframes**](#wireframes)
+    - [**View the Wireframes here:**](#view-the-wireframes-here)
     - [Desktop Wireframe](#desktop-wireframe)
-    - [Mobile Wireframe](#mobile-wireframe)
+  - [### Mobile Wireframe](#-mobile-wireframe)
   - [**Features**](#features)
+    - [**Existing Features**](#existing-features)
+      - [Navigation](#navigation)
 
 # **UX**
 
@@ -64,7 +68,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
 * As a user, I want my dog to feel comfortable with the photographer
 * As a user, I want people to recommend my website
 * As a user, i want links to social meadia that open in a new tab
-
+---
 ## **Website Goals**
 
 * To attract and retain potential clients
@@ -72,7 +76,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
 * Grow the business
 * Stand out from the crowd
 
-## User Requirements and Expectations
+## **User Requirements and Expectations**
 
 #### **Requirements**
 * Navigating the website to be intuitive
@@ -86,7 +90,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
 * All parts of the website shall work smoothly
 * Confirmation shall be provided when submitting the contact form
 * All links to shall open the correct information in a new tab
-
+---
 ## **Design**
 I want my website to be a calm and inviting place for the user that I feel befits people with dogs. 
 Therefore, I want to use colours that reflect this enviornment.
@@ -111,19 +115,20 @@ The reason I have choosen this pallete, is that I feel the colours suit the styl
 The colour scheme I have chosen can be seen here *****
 
 ### **Structure**
-To build the structure of the website, I have gone with
-[Bootstrap](https://getbootstrap.com/) 
-This will give the foundation to construct a responsive website, that I can then style with CSS.
+To build the structure of the website, I have gone with **[Bootstrap](https://getbootstrap.com/)** 
+This will give the foundation to construct a responsive website, that I can then style with [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 Bootstrap is mobile first by default and I can adapt to work with tablets and computers
 
 
-## **Wireframes**
-I have used [Balsamic](https://balsamiq.com/wireframes/) to create the wireframes for my website. 
+### **Wireframes**
+I have used **[Balsamic](https://balsamiq.com/wireframes/)** to create the wireframes for my website. 
 I have created a basic wireframe for desktop and mobile. 
 The website is a single scrolling page, that will provide a focused, simple to navigate place for the user experience
 
-## **View the wireframes here:**
+### **View the Wireframes here:**
 ### [Desktop Wireframe](wireframes/desktop-wireframe.png)
 ### [Mobile Wireframe](wireframes/mobile-wireframe.png)
-
+---
 ## **Features**
+### **Existing Features**
+#### Navigation
