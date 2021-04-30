@@ -36,6 +36,8 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
     - [**Existing Features**](#existing-features)
       - [**Navigation**](#navigation)
       - [**Carousel**](#carousel)
+      - [**About**](#about)
+      - [**Portfolio**](#portfolio)
 
 # **UX**
 
@@ -137,4 +139,12 @@ At the top is a page a title. Underneath is a responsive Navbar using Bootstrap 
 When viewed with a mobile phone the tabs will be incorporated into a "hamburger" style dropdown tab
 
 #### **Carousel**
-Below the Navbar, I have used a carousel to provide a sliding view showing images of dogs that I have taken
+Below the Navbar, I have used a carousel to provide a sliding view showing images of dogs that I have taken.
+I want the user to image their dog having images like these
+
+#### **About**
+the next section has an image of myself, the photographer with my dog Jasper. Within this section, is information about myself. I want the user develop a connection through reading the About section 
+
+#### **Portfolio**
+This section will display a portfolio of images
+I want to give the user further variety to enjoy and help choose my service
