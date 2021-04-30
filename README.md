@@ -1,6 +1,6 @@
-# Dog Photography
+# **Dog Photography Website**
 
-# Goal For This Project
+# **Goal For This Project**
 ---
 For people who are looking for beautiful photos of their dog(s).
 On this intuitive website, the visitor will find all the information they would require about the Dog Photographer.
@@ -9,30 +9,33 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
 
 ---
 
-## Table of Contents 
-- [Dog Photography](#dog-photography)
-  - [# Goal For This Project](#-goal-for-this-project)
-  - [Table of Contents](#table-of-contents)
-- [UX](#ux)
-  - [User Goals](#user-goals)
-  - [User Stories](#user-stories)
-  - [Website Goals](#website-goals)
+## **Table of Contents** 
+- [**Dog Photography Website**](#dog-photography-website)
+  - [# **Goal For This Project**](#-goal-for-this-project)
+  - [**Table of Contents**](#table-of-contents)
+- [**UX**](#ux)
+  - [**User Goals**](#user-goals)
+  - [**User Stories**](#user-stories)
+  - [**Website Goals**](#website-goals)
   - [User Requirements and Expectations](#user-requirements-and-expectations)
-      - [Requirements](#requirements)
-      - [Expectations](#expectations)
-  - [Design](#design)
-    - [Fonts](#fonts)
-    - [Icons](#icons)
-    - [Images](#images)
-    - [Colours](#colours)
-    - [Structure](#structure)
+      - [**Requirements**](#requirements)
+      - [**Expectations**](#expectations)
+  - [**Design**](#design)
+    - [**Fonts**](#fonts)
+    - [**Icons**](#icons)
+    - [**Images**](#images)
+    - [**Colours**](#colours)
+    - [**Structure**](#structure)
   - [**Wireframes**](#wireframes)
+  - [**View the wireframes here:**](#view-the-wireframes-here)
     - [Desktop Wireframe](#desktop-wireframe)
     - [Mobile Wireframe](#mobile-wireframe)
-# UX
+  - [**Features**](#features)
+
+# **UX**
 
 ---
-## User Goals
+## **User Goals**
 
 * A reponsive website, accessable with a mobile, tablet or computer
 * A feature rich enviroment
@@ -45,7 +48,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
 * Location information
 * Links to 'Social Media' sites
 
-## User Stories
+## **User Stories**
 
 * As a user, I want a website easy to navigate
 * As a user, I want clear information of pricing
@@ -62,7 +65,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
 * As a user, I want people to recommend my website
 * As a user, i want links to social meadia that open in a new tab
 
-## Website Goals
+## **Website Goals**
 
 * To attract and retain potential clients
 * To provide a 'niche' service 
@@ -71,7 +74,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
 
 ## User Requirements and Expectations
 
-#### Requirements
+#### **Requirements**
 * Navigating the website to be intuitive
 * Relevent content required for the user
 * Visually appealing interface
@@ -79,35 +82,35 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
 * Clear information about prices
 
 
-#### Expectations
+#### **Expectations**
 * All parts of the website shall work smoothly
 * Confirmation shall be provided when submitting the contact form
 * All links to shall open the correct information in a new tab
 
-## Design
+## **Design**
 I want my website to be a calm and inviting place for the user that I feel befits people with dogs. 
 Therefore, I want to use colours that reflect this enviornment.
 I used [Coolors](https://coolors.co/ "Coolors.co") to choose a suitable colour scheme.
 
-### Fonts
+### **Fonts**
 Because the website is designed to be a emotionally connective environment. I wanted the font selection to be in keeping with this.
 I used [Google Fonts](https://fonts.google.com/ "Google Fonts") to choose a style
 The style i went with is.........
 
 
-### Icons
+### **Icons**
 I will use icons to make the site more visably appealing to the user. They will be in keeping with the style of the site.
 I have used [Font Awesome library](https://fontawesome.com/ "Font Awesome"), to choose the icons
 
-### Images
+### **Images**
 For the carousel and the portfolio the images are from my own personal collection.
 The image for the contact section is a stock photo from a google serarch, found here ********
 
-### Colours
+### **Colours**
 The reason I have choosen this pallete, is that I feel the colours suit the style I wanted to give. A calm inviting place, engaging the emotions of a dog owner.
 The colour scheme I have chosen can be seen here *****
 
-### Structure
+### **Structure**
 To build the structure of the website, I have gone with
 [Bootstrap](https://getbootstrap.com/) 
 This will give the foundation to construct a responsive website, that I can then style with CSS.
@@ -119,6 +122,8 @@ I have used [Balsamic](https://balsamiq.com/wireframes/) to create the wireframe
 I have created a basic wireframe for desktop and mobile. 
 The website is a single scrolling page, that will provide a focused, simple to navigate place for the user experience
 
-View the wireframes:
+## **View the wireframes here:**
 ### [Desktop Wireframe](wireframes/desktop-wireframe.png)
 ### [Mobile Wireframe](wireframes/mobile-wireframe.png)
+
+## **Features**
