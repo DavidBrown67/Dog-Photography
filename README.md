@@ -27,6 +27,8 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
     - [Colours](#colours)
     - [Structure](#structure)
   - [**Wireframes**](#wireframes)
+    - [Desktop Wireframe](#desktop-wireframe)
+    - [Mobile Wireframe](#mobile-wireframe)
 # UX
 
 ---
@@ -118,3 +120,5 @@ I have created a basic wireframe for desktop and mobile.
 The website is a single scrolling page, that will provide a focused, simple to navigate place for the user experience
 
 View the wireframes:
+### [Desktop Wireframe](wireframes/desktop-wireframe.png)
+### [Mobile Wireframe](wireframes/mobile-wireframe.png)
