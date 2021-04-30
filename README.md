@@ -39,6 +39,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
       - [**About**](#about)
       - [**Portfolio**](#portfolio)
       - [**Prices**](#prices)
+      - [**Contact**](#contact)
 
 # **UX**
 
@@ -151,5 +152,8 @@ This section will display a portfolio of images
 I want to give the user further variety of my work, to enjoy and help choose my service
 
 #### **Prices**
-Using Bootstrap I have made cards that show 3 price packages for the user to choose from. 
-I wanted to give clear seperation and uniformity
+Using Bootstrap, I have made cards that show 3 price packages for the user to choose from. 
+I wanted to give a clear seperation and uniformity for this section
+
+#### **Contact**
+A contact section will allow the user to ask the photographer further information specific to their requirements
