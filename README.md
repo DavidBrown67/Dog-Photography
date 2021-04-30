@@ -34,7 +34,8 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
   - [### Mobile Wireframe](#-mobile-wireframe)
   - [**Features**](#features)
     - [**Existing Features**](#existing-features)
-      - [Navigation](#navigation)
+      - [**Navigation**](#navigation)
+      - [**Carousel**](#carousel)
 
 # **UX**
 
@@ -117,7 +118,7 @@ The colour scheme I have chosen can be seen here *****
 ### **Structure**
 To build the structure of the website, I have gone with **[Bootstrap](https://getbootstrap.com/)** 
 This will give the foundation to construct a responsive website, that I can then style with [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-Bootstrap is mobile first by default and I can adapt to work with tablets and computers
+Bootstrap is mobile first by default and this will allow me to adapt the website for tablets and computers
 
 
 ### **Wireframes**
@@ -131,4 +132,9 @@ The website is a single scrolling page, that will provide a focused, simple to n
 ---
 ## **Features**
 ### **Existing Features**
-#### Navigation
+#### **Navigation**
+At the top is a page a title. Underneath is a responsive Navbar using Bootstrap to deploy this.
+When viewed with a mobile phone the tabs will be incorporated into a "hamburger" style dropdown tab
+
+#### **Carousel**
+Below the Navbar, I have used a carousel to provide a sliding view showing images of dogs that I have taken
