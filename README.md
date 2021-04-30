@@ -40,6 +40,7 @@ Thanks for visitiing my project. Any feedback is appriciated via GitHub.
       - [**Portfolio**](#portfolio)
       - [**Prices**](#prices)
       - [**Contact**](#contact)
+      - [**Footer**](#footer)
 
 # **UX**
 
@@ -157,3 +158,7 @@ I wanted to give a clear seperation and uniformity for this section
 
 #### **Contact**
 A contact section will allow the user to ask the photographer further information specific to their requirements
+
+#### **Footer**
+The footer will have links to social media sites that will open in a new tab.
+The icons will be taken from the **[Font Awesome](https://fontawesome.com/)** website
