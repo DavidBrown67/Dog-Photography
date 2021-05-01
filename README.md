@@ -51,7 +51,7 @@ Any feedback is appriciated via GitHub.
     - [**Navigation Bar**](#navigation-bar)
     - [**Carousel**](#carousel-1)
     - [**About**](#about-1)
-    - [**Pricing](#pricing)
+    - [**Pricing**](#pricing)
 
 # **UX**
 
@@ -272,7 +272,7 @@ When viewed with a mobile device, I wanted the photo to move above the descripti
 
 **Test**
 I tested that the About worked properly when used with a desktop, tablet and a mobile.
-I tested that the carousel worked using Google Chrome, Firefox, Microsoft Edge and Apple Safari.
+I tested it was consistent when using Google Chrome, Firefox, Microsoft Edge and Apple Safari.
 When viewed using a mobile device I checked that the photo moved above the text as I wished and was easy to read
 
 **Result**
@@ -281,8 +281,30 @@ When viewed using a mobile device I checked that the photo moved above the text 
 £££££££££££££££
 
 
-### **Pricing
+### **Pricing**
 **Plan**
+
+For a good user experience I wanted to give a clear, concise interface for the user to choose a price package. 
+I did not want to overwhelm with information and choice options.
+For this reason I decided to present 3 cards, side by side, styled in keeping with the overall website design.
+I needed the cards to stack vertically when viewed using a mobile device, so that they are still clear to read.
+The cards will have the same structure with 3 different price options. I wanted to make it simple for the user to compare.
+I want to make the cards interactive and add a select button, so that when selected they will take the user to a booking form.
+However, I have not obtained the necessary skills to achieve this yet. The plan is to add this later in my course. 
+
+**Implementation**
+Again using Bootstrap I went with a design using cards.
+Bootstrap will allow the cards to align vertically when viewed in a mobile device, that will give the desired uniform presentation that I wanted for the user.
+I further styled with CSS to compliment the overall website
+
+**Test**
+When used with a desktop and tablet the cards were uniform horizontally and vertically when used with a mobile device.
+I tested that the cards were constant using Google Chrome, Firefox, Microsoft Edge and Apple Safari.
+
+**Result**
+££££££££££££££££
+**Verdict**
+£££££££££££££££
 
 
 
