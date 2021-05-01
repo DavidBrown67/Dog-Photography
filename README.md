@@ -50,6 +50,8 @@ Any feedback is appriciated via GitHub.
   - [**Testing**](#testing)
     - [**Navigation Bar**](#navigation-bar)
     - [**Carousel**](#carousel-1)
+    - [**About**](#about-1)
+    - [**Pricing](#pricing)
 
 # **UX**
 
@@ -256,6 +258,31 @@ I tested that the carousel worked using Google Chrome, Firefox, Microsoft Edge a
 **Verdict**
 £££££££££££££££
 
+
+### **About**
+
+**Plan**
+I designed a simple About section, to provide information about the photographer and so develop a connection for the user.
+I also added a photo of the photographer with his dog to put a face with the name. I believed this helped with an emotional connection with the user.
+
+**Implementation**
+I used Bootstrap to place a photo with a written description section next to the photo.
+I styled the section in keeping with the overall look of the website using CSS
+When viewed with a mobile device, I wanted the photo to move above the description so that both were still easy to see
+
+**Test**
+I tested that the About worked properly when used with a desktop, tablet and a mobile.
+I tested that the carousel worked using Google Chrome, Firefox, Microsoft Edge and Apple Safari.
+When viewed using a mobile device I checked that the photo moved above the text as I wished and was easy to read
+
+**Result**
+££££££££££££££££
+**Verdict**
+£££££££££££££££
+
+
+### **Pricing
+**Plan**
 
 
 
