@@ -48,6 +48,8 @@ Any feedback is appriciated via GitHub.
     - [**Libraries & Frameworks**](#libraries--frameworks)
     - [**Tools**](#tools)
   - [**Testing**](#testing)
+    - [**Navigation Bar**](#navigation-bar)
+    - [**Carousel**](#carousel-1)
 
 # **UX**
 
@@ -215,3 +217,32 @@ ___
 [Back to Top](#table-of-contents)
 ___
 ## **Testing**
+### **Navigation Bar**
+**Plan**    
+A navigation bar will be fixed at the top of the screen.
+Scrolling up and down the site, the navigation bar is always acessible.
+Using a button will take the user to the relevant section
+For mobile use, the "hamburger" icon will appear, that will give a dropdown to the buttons.
+
+**Implementation**
+To achieve the navbar structure, I have used Bootstrap to implement this.
+CSS has been used to style the navbar to complement the overall website.
+Bootstrap is used to default to the "hamburger" icon in the mobile form.
+
+**Test**
+I have checked to operation of all the buttons to see they work properly. I have done this in desktop, tablet and mobile form. Also i confirmed the "hamburger" icon appears when in the mibile form.
+The website was opened in Google chrome, Firefox, Microsoft Edge and Apple Safari, to test consisitency across all platforms.
+
+**Result**
+
+**Verdict**
+
+### **Carousel**
+**Plan**
+Below I wanted to 
+
+
+
+
+
+
