@@ -52,7 +52,10 @@ Any feedback is appriciated via GitHub.
     - [**Carousel**](#carousel-1)
     - [**About**](#about-1)
     - [**Pricing**](#pricing)
-    - [Contact Form](#contact-form)
+    - [**Contact Form**](#contact-form)
+  - [**Deployment**](#deployment)
+  - [**Credits**](#credits)
+      - [**Reference**](#reference)
 
 # **UX**
 
@@ -239,7 +242,7 @@ The website was opened in Google chrome, Firefox, Microsoft Edge and Apple Safar
 **Result**
 
 **Verdict**
-
+[Back to Top](#table-of-contents)
 ### **Carousel**
 **Plan**
 Below the navbar, I wanted to capture the users eye with a constant flow of images.
@@ -259,7 +262,7 @@ I tested that the carousel worked using Google Chrome, Firefox, Microsoft Edge a
 **Verdict**
 £££££££££££££££
 
-
+[Back to Top](#table-of-contents)
 ### **About**
 
 **Plan**
@@ -281,7 +284,7 @@ When viewed using a mobile device I checked that the photo moved above the text 
 **Verdict**
 £££££££££££££££
 
-
+[Back to Top](#table-of-contents)
 ### **Pricing**
 **Plan**
 
@@ -306,9 +309,9 @@ I tested that the cards were constant using Google Chrome, Firefox, Microsoft Ed
 ££££££££££££££££
 **Verdict**
 £££££££££££££££
+[Back to Top](#table-of-contents)
 
-
-### Contact Form 
+### **Contact Form** 
 **Plan**    
 For a good user experience, the user must be able to contact the photographer for many different reasons.
 I have added a Contact form where they can provide their name, email and content box to enter their message.
@@ -331,8 +334,18 @@ The submit button will not send the message to the photographer, as i do not hav
 ££££££££££££££££
 **Verdict**
 £££££££££££££££
+[Back to Top](#table-of-contents)
+___
 
 
+## **Deployment**
+___
+## **Credits**
 
+#### **Reference**
+To get an idea of how to design a Dog photography website, I also viewed the following websites for inspiration:
+[Andy Biggar Photography](https://www.andybiggar.com/)
+[Dog Breath Photography](https://www.dogbreathphoto.com)
+[Rhian White Photography](https://www.rhianwhitephotography.co.uk/)
 
 
