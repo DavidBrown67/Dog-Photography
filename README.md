@@ -52,6 +52,7 @@ Any feedback is appriciated via GitHub.
     - [**Carousel**](#carousel-1)
     - [**About**](#about-1)
     - [**Pricing**](#pricing)
+    - [Contact Form](#contact-form)
 
 # **UX**
 
@@ -307,7 +308,29 @@ I tested that the cards were constant using Google Chrome, Firefox, Microsoft Ed
 £££££££££££££££
 
 
+### Contact Form 
+**Plan**    
+For a good user experience, the user must be able to contact the photographer for many different reasons.
+I have added a Contact form where they can provide their name, email and content box to enter their message.
+A submit button is provided for the user to send to the photographer.
+At present, the submit button will not send the message to the photographer as I have not learnt these skills yet.
 
+
+
+ **Implementation**    
+I have referred to the course content at Code Institute, Building the Running website, to design a contact form. I liked the design and would complement my website.
+The background image is a stock website, found via a Google search.
+I have styled the Contact form with CSS to compliment the rest of the website.
+
+ **Test**    
+ The Contact form was tested to see that it was responsive when used with a desktop, tablet and mobile device.
+I tested that the form work using Google Chrome, Firefox, Microsoft Edge and Apple Safari.
+The submit button will not send the message to the photographer, as i do not have the skills to incorporate this as yet.
+
+**Result**
+££££££££££££££££
+**Verdict**
+£££££££££££££££
 
 
 
