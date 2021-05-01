@@ -55,7 +55,8 @@ Any feedback is appriciated via GitHub.
     - [**Contact Form**](#contact-form)
   - [**Deployment**](#deployment)
   - [**Credits**](#credits)
-      - [**Reference**](#reference)
+      - [**Reference Websites**](#reference-websites)
+      - [**Images**](#images-1)
 
 # **UX**
 
@@ -342,10 +343,16 @@ ___
 ___
 ## **Credits**
 
-#### **Reference**
-To get an idea of how to design a Dog photography website, I also viewed the following websites for inspiration:
+#### **Reference Websites**
+To get an idea of how to design a Dog Photography website, I also viewed the following websites for inspiration:
 [Andy Biggar Photography](https://www.andybiggar.com/)
 [Dog Breath Photography](https://www.dogbreathphoto.com)
 [Rhian White Photography](https://www.rhianwhitephotography.co.uk/)
 
+#### **Images**
+
+All images except on the contact section are my own.
+The image on the submit form was choosen so that the form had space to one side and did not hide the dog.
+The image is a free stock at Unsplash, and can be found here:
+[Unsplash](https://images.unsplash.com/photo-1506868544459-9bb3a18fbc94?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjk3fHxkb2d8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60)
 
