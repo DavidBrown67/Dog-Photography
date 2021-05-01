@@ -57,6 +57,7 @@ Any feedback is appriciated via GitHub.
   - [**Credits**](#credits)
       - [**Reference Websites**](#reference-websites)
       - [**Images**](#images-1)
+    - [Acknowledgements](#acknowledgements)
 
 # **UX**
 
@@ -353,6 +354,8 @@ To get an idea of how to design a Dog Photography website, I also viewed the fol
 
 All images except on the contact section are my own.
 The image on the submit form was choosen so that the form had space to one side and did not hide the dog.
-The image is a free stock at Unsplash, and can be found here:
+The image is free stock at Unsplash, and can be found here:
 [Unsplash](https://images.unsplash.com/photo-1506868544459-9bb3a18fbc94?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjk3fHxkb2d8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60)
 
+### Acknowledgements
+$$$$$$$$$$$$$$$$$$$$$$
