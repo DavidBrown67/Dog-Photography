@@ -239,7 +239,25 @@ The website was opened in Google chrome, Firefox, Microsoft Edge and Apple Safar
 
 ### **Carousel**
 **Plan**
-Below I wanted to 
+Below the navbar, I wanted to capture the users eye with a constant flow of images.
+The user can interact with the carousel using action tabs either side of the images
+
+**Implementation**
+I used Bootstrap to implement the carousel.
+With Bootstrap the carousel will adapt when viewed through various devices.
+I further styled the carousel with CSS to compliment the overall design of the website
+
+**Test**
+I tested that the carousel worked properly when used with a desktop, tablet and a mobile.
+I tested that the carousel worked using Google Chrome, Firefox, Microsoft Edge and Apple Safari
+
+**Result**
+££££££££££££££££
+**Verdict**
+£££££££££££££££
+
+
+
 
 
 
