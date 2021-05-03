@@ -41,10 +41,24 @@ li.nav-item {
 
 /* about */
 
+
+
+.container-aboutheading {
+    background-color: #EFD3D7 !important;
+    
+}   
+
 .heading {
-    padding-left: 90px;
-    border-style: solid;
-    border-color: #3be687;
-    margin-top: 50px;
-    margin-left: 40px;
+    text-align: center;
+    color: #8E9AAF !important;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    letter-spacing: .2em;
 }
+
+#photographer-image {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+    
+
