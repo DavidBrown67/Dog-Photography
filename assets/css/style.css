@@ -5,20 +5,28 @@ body    {
     
 }
 
-
+li.nav-item {
+    color: #8E9AAF !important;
+    font-size: 20px;
+}
 
 /* Header */
 
 .navbar-title{
-    text-align: right;
+    text-align: center;
     position: fixed;
-    background-color: #3C5D4B;
+    background-color: #3be687 !important;
 }
 
 
 
+
+.nav-link {
+    color: #8E9AAF !important;
+}   
+
 .bg-light {
-    background-color: #EFD3D7!important;
+    background-color: #EFD3D7 !important;
 }
 .navbar-light .navbar-brand  {
     display: inline-block;
@@ -31,6 +39,12 @@ body    {
     line-height: inherit;
 }
 
-ul.navbar-nav   {
-    color: #8E9AAF;
+/* about */
+
+.heading {
+    padding-left: 90px;
+    border-style: solid;
+    border-color: #3be687;
+    margin-top: 50px;
+    margin-left: 40px;
 }
