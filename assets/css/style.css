@@ -6,7 +6,7 @@ body {
 }
 
 li.nav-item {
-    color: #8E9AAF !important;
+    color: #2065db !important;
     font-size: 20px;
 }
 
@@ -15,18 +15,15 @@ li.nav-item {
 .navbar-title {
     text-align: center;
     position: fixed;
-    background-color: #3be687 !important;
+    
 }
-
-
-
 
 .nav-link {
     color: #8E9AAF !important;
 }
 
 .bg-light {
-    background-color: #EFD3D7 !important;
+    background-color: #DEE2FF !important;
 }
 
 .navbar-light .navbar-brand {
@@ -78,11 +75,12 @@ li.nav-item {
     padding-top: 20px;
     padding-bottom: 20px;
     letter-spacing: .2em;
+    border: 10px solid transparent;
 }
 
 .portfolio {
     margin: 10px;
-    border: 10px SOLID transparent;
+    border: 10px solid transparent;
 
     border-color: #CBC0D3;
     border-radius: 5px;
