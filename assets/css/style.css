@@ -121,11 +121,12 @@ li.nav-item {
     }
 
 
-    /* Contact */
+    /* Contact Form*/
 
     #contact-form{
         background-color: #EFD3D7;
         padding-top: 60px;
+        padding-bottom: 60px;
     }
 
     .contact-title    {
@@ -135,3 +136,21 @@ li.nav-item {
         padding-bottom: 20px;
         letter-spacing: .2em;
         }
+
+    .btn-block {
+        background-color: #8E9AAF;
+        width: 20%;
+        border-style: none;
+    }
+
+    .btn-primary    {
+        color: #FEEAFA;
+    }
+
+    .form-control   {
+        background-color: #DEE2FF;
+    }
+        
+    .form-label {
+        color: #8E9AAF;
+    }
