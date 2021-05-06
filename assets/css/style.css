@@ -6,7 +6,6 @@ body {
 }
 
 li.nav-item {
-    
     font-size: 20px;
 }
 
@@ -18,24 +17,36 @@ li.nav-item {
 
 }
 
+.nav
 .nav-link {
-    color: #8E9AAF !important;
+    color: #545c68;
+
 }
 
-.bg-colour-light {
+.bg-color-light {
     background-color: #DEE2FF;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color :rgba(0,0,0);
+    color:#545c68;
 }
 
 .navbar-light .navbar-brand {
     display: inline-block;
-    color: #8E9AAF;
+    color: #545c68;
     padding-top: .3125rem;
     padding-bottom: .3125rem;
     margin-left: 3rem;
-    margin-right: 5rem;
+    margin-right: 8rem;
     font-size: 1.5rem;
     line-height: inherit;
 }
+
+.nav-item   {
+    padding-right: 20px;
+}
+
 
 /* about */
 
@@ -45,8 +56,8 @@ li.nav-item {
 
 .heading {
     text-align: center;
-    color: #8E9AAF;
-    padding-top: 20px;
+    color: #545c68;
+    padding-top: 60px;
     padding-bottom: 20px;
     letter-spacing: .2em;
 }
@@ -58,7 +69,8 @@ li.nav-item {
 }
 
 #photographer-info {
-    color: #8E9AAF;
+    color: #545c68;
+    padding-top: 30px;
 }
 
 
@@ -66,12 +78,12 @@ li.nav-item {
 
 #portfolio {
     background-color: #EFD3D7;
-    padding-top: 60px;
+    padding-top: 40px;
 }
 
 .portfolio-title {
     text-align: center;
-    color: #8E9AAF;
+    color: #545c68;
     padding-top: 20px;
     padding-bottom: 20px;
     letter-spacing: .2em;
@@ -95,7 +107,7 @@ li.nav-item {
 
 .pricing-title {
     text-align: center;
-    color: #8E9AAF !important;
+    color: #545c68;
     padding-top: 20px;
     padding-bottom: 20px;
     letter-spacing: .2em;
@@ -105,7 +117,12 @@ li.nav-item {
 
 .card {
     background-color: #DEE2FF;
-    color: #8E9AAF;
+    color: #545c68;
+    margin-bottom: 10px;
+}
+
+.card-body  {
+    height: 15rem;
 }
 
 .card h3 {
@@ -129,7 +146,7 @@ li.nav-item {
 
 .contact-title {
     text-align: center;
-    color: #8E9AAF !important;
+    color: #545c68;
     padding-top: 70px;
     padding-bottom: 20px;
     letter-spacing: .2em;
@@ -150,7 +167,7 @@ li.nav-item {
 }
 
 .form-label {
-    color: #8E9AAF;
+    color: #545c68;
 }
 
 
@@ -179,6 +196,6 @@ footer {
 } 
 
 .social-media i {
-    color: #8E9AAF;
+    color: #545c68;
     font-size: 200%;
 }
