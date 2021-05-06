@@ -2,7 +2,7 @@
 
 body {
     font-family: "montserrat", sans serif;
-
+    
 }
 
 li.nav-item {
@@ -75,7 +75,7 @@ li.nav-item {
     padding-top: 20px;
     padding-bottom: 20px;
     letter-spacing: .2em;
-    border: 10px solid transparent;
+    
 }
 
 .portfolio {
@@ -85,3 +85,53 @@ li.nav-item {
     border-color: #CBC0D3;
     border-radius: 5px;
 }
+
+/* Pricing */
+
+#pricing{
+    background-color: #EFD3D7;
+    padding-top: 60px;
+}
+
+.pricing-title    {
+    text-align: center;
+    color: #8E9AAF !important;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    letter-spacing: .2em;
+    }
+
+    .price-box  {
+        
+    }
+
+    .card   {
+        background-color: #DEE2FF;
+        color: #8E9AAF;
+    }
+
+    .card h3{
+        font-size: 1.2em;
+        text-align: center;
+    }
+
+    .card p{
+        font-size: 1.5em;
+        text-align: center;
+    }
+
+
+    /* Contact */
+
+    #contact-form{
+        background-color: #EFD3D7;
+        padding-top: 60px;
+    }
+
+    .contact-title    {
+        text-align: center;
+        color: #8E9AAF !important;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        letter-spacing: .2em;
+        }
