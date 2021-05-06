@@ -157,27 +157,25 @@ li.nav-item {
 /* footer */
 
 footer {
-    margin-top: 50px;
     background-color: #DEE2FF;
     height: 70px;
 }
-
-
 
 .social-media {
     text-align: center;
     list-style: none;
 }
 
+.social-media ul    {
+    padding: 90%;
+}
+
 .social-media li {
     display: inline;
-    padding: 5%;
-}
+    
+} 
 
 .social-media i {
     color: #8E9AAF;
     font-size: 200%;
-    padding: 2%;
-
-
 }
