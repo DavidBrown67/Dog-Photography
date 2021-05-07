@@ -478,6 +478,9 @@ To get an idea of how to design a Dog Photography website, I also viewed the fol
 [Dog Breath Photography](https://www.dogbreathphoto.com)
 [Rhian White Photography](https://www.rhianwhitephotography.co.uk/)
 
+My mentor recommended to look at this website below to help me structure my README file. I also studied the code to help me understand how to structure my website.
+[Anouk Smet Naturazy](https://anouksmet.github.io/Naturazy/)
+
 #### **Images**
 
 All images on the website are from my personal collection.
@@ -492,6 +495,8 @@ Without their support and advice throughout this project, When my head was down,
 I would have struggled. especially like to thank, Anthony O'Brien, Suzy Bennet  and Brian Murphy particularly.
 
 I want to thank my mentor Simen Daehlin, for his guidance and being so flexible when I struggled to book sessions with him.
+
+I want to thank Anouk Smet for using her website as a reference for the README.md and the code to guid me for my website project.
 
 
 [Back to Top](#table-of-contents)
