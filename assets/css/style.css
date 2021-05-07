@@ -5,17 +5,18 @@ body {
     background-color: #FEEAFA;
 }
 
-li.nav-item {
-    font-size: 20px;
-}
+
 
 /* Header */
 
+li.nav-item {
+    font-size: 20px;
+}
+/*
 .navbar-title {
     text-align: center;
     position: fixed;
-
-}
+} */
 
 .nav
 .nav-link {
@@ -38,7 +39,7 @@ li.nav-item {
     padding-top: .3125rem;
     padding-bottom: .3125rem;
     margin-left: 3rem;
-    margin-right: 8rem;
+    
     font-size: 1.5rem;
     line-height: inherit;
 }
@@ -183,6 +184,11 @@ footer {
     list-style: none;
     padding-top: 20px;
 }
+
+.social-media ul  {
+    margin-left 0;
+}
+
 
 .social-media ul a {
     margin-top: 0px;
