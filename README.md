@@ -222,6 +222,7 @@ ___
 * [Font Awesome](https://fontawesome.com/)
 * [Google Fonts](https://fonts.google.com/)
 * [Coolors](https://coolors.co/palettes/trending)
+* [Cleanpng.com](https://www.cleanpng.com/png-labrador-retriever-puppy-boxer-silhouette-dachshun-7025733/)
 
 ### **Tools**
 * [Git](https://git-scm.com/)
@@ -230,6 +231,7 @@ ___
 * [W3C HTML Validation Service](https://validator.w3.org/)
 * [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 * [Favicon Generator](https://favicon.io/favicon-converter/)
+* [Tiny PNG](https://tinypng.com/)
 
 
 [Back to Top](#table-of-contents)
@@ -453,9 +455,18 @@ To get an idea of how to design a Dog Photography website, I also viewed the fol
 
 #### **Images**
 
-All images except on the contact section are my own.
-The image is free stock at Unsplash, and can be found here:
+All images on the website are from my personal collection.
+The Logo is a free stock image that comes from **cleanpng.com**
+
 
 
 ### Acknowledgements
-$$$$$$$$$$$$$$$$$$$$$$
+
+Firstly I want to thank the **Slack** community.
+Without their support and advice throughout this project, When my head was down, they were there to pick me up again.
+I would have struggled. especially like to thank, Anthony O'Brien, Suzy Bennet  and Brian Murphy particularly.
+
+I want to thank my mentor Simen Daehlin, for his guidance and being so flexible when I struggled to book sessions with him.
+
+
+[Back to Top](#table-of-contents)
