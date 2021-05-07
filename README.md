@@ -136,15 +136,25 @@ I have used [Font Awesome library](https://fontawesome.com/ "Font Awesome"), to 
 ### **Images**
 For the carousel and the portfolio the images are from my own personal collection.
 The image for the contact section is a stock photo from a google search, found here ********
+The logo of the black dog was from stock images free to download that I found at:
+**[Dog Logo](https://www.cleanpng.com/png-labrador-retriever-puppy-boxer-silhouette-dachshun-7025733/)**
 
 ### **Colours**
 The reason I have choosen this pallete, is that I feel the colours suit the style I wanted to give. A calm inviting place, engaging the emotions of a dog owner.
-The colour scheme I have chosen can be seen here *****
+The colour scheme I have chosen can be seen here:
+**[Coolors](https://coolors.co/8e9aaf-cbc0d3-efd3d7-feeafa-dee2ff)**
+
+* #FEEAFA is the colour I used for the main background. I wanted a colour that would soft to the eyes and nbot dominate the page.
+* #DEE2FF I decided to use for the header. I needed a colour that seperate the navbar from the background colour, but again a soft pallete.
+I also used this colour for the text fields and the portfolio images to give them seperation.
+* #8E9AAF i was going to use this colour for the main text. however, I discovered that the contrast was too low and coluld not be seen clearly.
+I did not want to use black, so I went with a darker gray
+which is: #545C68
 
 ### **Structure**
 To build the structure of the website, I have gone with **[Bootstrap](https://getbootstrap.com/)** 
-This will give the foundation to construct a responsive website, that I can then style with [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-Bootstrap is mobile first by default and this will allow me to adapt the website for tablets and computers
+This will give the foundation to construct a responsive website, that I can then style with **[CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)**
+Bootstrap is mobile first by default and this will allow me to adapt the website for tablets and computers.
 
 
 [Back to Top](#table-of-contents)
