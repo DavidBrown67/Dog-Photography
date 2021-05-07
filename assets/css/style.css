@@ -4,6 +4,7 @@ body {
     font-family: "montserrat", sans-serif;
     background-color: #FEEAFA;
 }
+
 /* Header */
 
 li.nav-item {
@@ -20,8 +21,8 @@ li.nav-item {
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color :rgba(0,0,0);
-    color:#545c68;
+    color: rgba(0, 0, 0);
+    color: #545c68;
 }
 
 .navbar-light .navbar-brand {
@@ -30,12 +31,12 @@ li.nav-item {
     padding-top: .3125rem;
     padding-bottom: .3125rem;
     margin-left: 15px;
-    
+
     font-size: 1.5rem;
     line-height: inherit;
 }
 
-.nav-item   {
+.nav-item {
     padding-right: 20px;
 }
 
@@ -120,7 +121,7 @@ li.nav-item {
     margin-bottom: 10px;
 }
 
-.card-body  {
+.card-body {
     height: 15rem;
 }
 
