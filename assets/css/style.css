@@ -42,8 +42,9 @@ li.nav-item {
 /* Title */
 
 #page-title {
-    margin-top: 80px;
+    margin-top: 150px;
     text-align: center;
+    color: #545c68;
 }
 
 /* about */
