@@ -18,7 +18,6 @@ Any feedback is appriciated via GitHub.
 - [**UX**](#ux)
   - [**User Goals**](#user-goals)
   - [**User Stories**](#user-stories)
-  - [* As a user, i want links to social meadia that open in a new tab](#-as-a-user-i-want-links-to-social-meadia-that-open-in-a-new-tab)
   - [**Website Goals**](#website-goals)
   - [**User Requirements and Expectations**](#user-requirements-and-expectations)
       - [**Requirements**](#requirements)
@@ -30,9 +29,31 @@ Any feedback is appriciated via GitHub.
     - [**Colours**](#colours)
     - [**Structure**](#structure)
     - [**Wireframes**](#wireframes)
-    - [**View the Wireframes here:**](#view-the-wireframes-here)
-    - [Desktop Wireframe](#desktop-wireframe)
-    - [Mobile Wireframe](#mobile-wireframe)
+  - [**Features**](#features)
+      - [**Navigation**](#navigation)
+      - [**Carousel**](#carousel)
+      - [**About**](#about)
+      - [**Portfolio**](#portfolio)
+      - [**Prices**](#prices)
+      - [**Contact**](#contact)
+      - [**Footer**](#footer)
+  - [**Technologies Used**](#technologies-used)
+    - [**Languages**](#languages)
+    - [**Libraries & Frameworks**](#libraries--frameworks)
+    - [**Tools**](#tools)
+  - [**Testing**](#testing)
+    - [**Navigation Bar**](#navigation-bar)
+    - [**Carousel**](#carousel-1)
+    - [**About**](#about-1)
+    - [**Pricing**](#pricing)
+    - [**Contact Form**](#contact-form)
+    - [**Bugs**](#bugs)
+  - [**Deployment**](#deployment)
+  - [**Credits**](#credits)
+      - [**Reference Websites**](#reference-websites)
+      - [**Images**](#images-1)
+    - [Acknowledgements](#acknowledgements)
+    
   - [**Features**](#features)
     - [**Existing Features**](#existing-features)
       - [**Navigation**](#navigation)
@@ -58,7 +79,9 @@ Any feedback is appriciated via GitHub.
   - [**Credits**](#credits)
       - [**Reference Websites**](#reference-websites)
       - [**Images**](#images-1)
-    - [Acknowledgements](#acknowledgements)
+    - [**Acknowledgements**](#acknowledgements)
+   
+  
 
 # **UX**
 
@@ -74,6 +97,7 @@ Any feedback is appriciated via GitHub.
 * Contact details
 * Location information
 * Links to 'Social Media' sites
+
 [Back to Top](#table-of-contents)
 
 ## **User Stories**
@@ -92,13 +116,15 @@ Any feedback is appriciated via GitHub.
 * As a user, I want my dog to feel comfortable with the photographer
 * As a user, I want people to recommend my website
 * As a user, i want links to social meadia that open in a new tab
----
+___
+
 ## **Website Goals**
 
 * To attract and retain potential clients
 * To provide a 'niche' service 
 * Grow the business
 * Stand out from the crowd
+
   [Back to Top](#table-of-contents)
 
 ## **User Requirements and Expectations**
@@ -114,20 +140,20 @@ Any feedback is appriciated via GitHub.
 #### **Expectations**
 * All parts of the website shall work smoothly
 * Confirmation shall be provided when submitting the contact form
-* All links to shall open the correct information in a new tab
+* All links shall open the correct information in a new tab
 
 [Back to Top](#table-of-contents)
 
 ---
 ## **Design**
-I want my website to be a calm and inviting place for the user that I feel befits people with dogs. 
+I want my website to be a calm and inviting place for the user, that I feel befits people with dogs. 
 Therefore, I want to use colours that reflect this enviornment.
 I used [Coolors](https://coolors.co/ "Coolors.co") to choose a suitable colour scheme.
 
 ### **Fonts**
-Because the website is designed to be a emotionally connective environment. I wanted the font selection to be in keeping with this.
+Because the website is designed to be an emotionally connective environment. I wanted the font selection to be in keeping with this.
 I used [Google Fonts](https://fonts.google.com/ "Google Fonts") to choose a style
-The style I went with is.........
+The style I went with is Montserrat.
 
 
 ### **Icons**
@@ -164,34 +190,34 @@ I have used **[Balsamic](https://balsamiq.com/wireframes/)** to create the wiref
 I have created a basic wireframe for desktop and mobile. 
 The website is a single scrolling page, that will provide a focused, simple to navigate place for the user experience.
 
-### **View the Wireframes here:**
-### [Desktop Wireframe](wireframes/desktop-wireframe.png)
-### [Mobile Wireframe](wireframes/mobile-wireframe.png)
+ **View the Wireframes here:**
+[**Desktop Wireframe**](wireframes/desktop-wireframe.png)
+[**Mobile Wireframe**](wireframes/mobile-wireframe.png)
 
 
 [Back to Top](#table-of-contents)
 
 ---
 ## **Features**
-### **Existing Features**
+ **Existing Features**
 #### **Navigation**
 At the top is a page a title. Underneath is a responsive Navbar using Bootstrap to deploy this.
 When viewed with a mobile phone the tabs will be incorporated into a "hamburger" style dropdown tab.
 
 #### **Carousel**
 Below the Navbar, I have used a carousel to provide a sliding view showing images of dogs that I have taken.
-I want the user to image their dog having images like these.
+I want the user to imagine their dog having images like these.
 
 #### **About**
 the next section has an image of myself, the photographer with my dog Jasper. Within this section, is information about myself. 
-I want the user develop a connection through reading the About section. 
+I want the user to develop a connection through reading the About section. 
 
 #### **Portfolio**
 This section will display a portfolio of images
 I want to give the user further variety of my work, to enjoy and help choose my service.
 
 #### **Prices**
-Using Bootstrap, I have made cards that show 3 price packages for the user to choose from. 
+Using Bootstrap, I have made cards that show three price packages for the user to choose from. 
 I wanted to give a clear seperation and uniformity for this section.
 
 #### **Contact**
@@ -202,7 +228,7 @@ The footer will have links to social media homepage, that will open in a new tab
 The icons are taken from the **[Font Awesome](https://fontawesome.com/)** website.
 
 
-### **Features Requiring Future Implemention**
+ **Features Requiring Future Implemention**
 * Add purchase buttons that link to a booking page when selecting a price package
 * To make the contact section link to the photographer's email
 * A contract to be completed when booking a photography package
@@ -250,8 +276,8 @@ CSS has been used to style the navbar to complement the overall website.
 Bootstrap is used to default to the "hamburger" icon in the mobile form.
 
 **Test**
-I have checked to operation of all the buttons to see they work properly. I have done this in desktop, tablet and mobile form. Also i confirmed the "hamburger" icon appears when in the mibile form.
-The website was opened in Google chrome, Firefox, Microsoft Edge and Apple Safari, to test consisitency across all platforms.
+I have checked to operation of all the buttons to see they work properly. I have done this in desktop, tablet and mobile form. Also I confirmed the "hamburger" icon appears when in the mobile form.
+The website was opened in Google Chrome, Firefox, Microsoft Edge and Apple Safari, to test consisitency across all platforms.
 
 **Result**
 The navbar works in desktop, tablet and mobile view.
@@ -315,9 +341,9 @@ This is exactly how I wanted it to be seen.
 
 For a good user experience I wanted to give a clear, concise interface for the user to choose a price package. 
 I did not want to overwhelm with information and choice options.
-For this reason I decided to present 3 cards, side by side, styled in keeping with the overall website design.
+For this reason I decided to present three cards, side by side, styled in keeping with the overall website design.
 I needed the cards to stack vertically when viewed using a mobile device, so that they are still clear to read.
-The cards will have the same structure with 3 different price options. I wanted to make it simple for the user to compare.
+The cards will have the same structure with three different price options. I wanted to make it simple for the user to compare.
 I want to make the cards interactive and add a select button, so that when selected they will take the user to a booking form.
 However, I have not obtained the necessary skills to achieve this yet. The plan is to add this later in my course. 
 
@@ -348,7 +374,6 @@ At present, the submit button will not send the message to the photographer as I
 
  **Implementation**    
 I have referred to the course content at Code Institute, Building the Running website, to design a contact form. I liked the design and would complement my website.
-The background image is a stock website, found via a Google search.
 I have styled the Contact form with CSS to compliment the rest of the website.
 
  **Test**    
