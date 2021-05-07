@@ -422,6 +422,24 @@ The steps below were taken to carry this out.
 
 4, Select 'Master' in the branch dropdown and then save.
 
+5, This will make the site live at:
+https://davidbrown67.github.io/Dog-Photography/
+
+
+The website can be run locally by using the following steps:
+
+1, Go to Github website and search for 'DavidBrown67'
+
+2, Select the 'Code' button where you get a dropdown.
+
+3, To clone the website click on  the 'clipboard' icon
+
+4, Open the IDE, in the terminal, change the current working directory to the cloned directory.
+
+5, In the terminal, type 'git clone' and paste the cloned the copied URL. 
+
+6, Press 'Enter' to create the local clone.
+
 
 
 ___
