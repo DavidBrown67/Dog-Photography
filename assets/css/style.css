@@ -4,9 +4,6 @@ body {
     font-family: "montserrat", sans-serif;
     background-color: #FEEAFA;
 }
-
-
-
 /* Header */
 
 li.nav-item {
@@ -42,6 +39,12 @@ li.nav-item {
     padding-right: 20px;
 }
 
+/* Title */
+
+#page-title {
+    margin-top: 80px;
+    text-align: center;
+}
 
 /* about */
 
@@ -172,17 +175,12 @@ li.nav-item {
     background-color: #DEE2FF;
     height: 70px;
     display: flex;
-    justify-content: center;
-    align-content: center;
 }
 
 .social-media {
     list-style: none;
     padding-top: 20px;
     padding-left: 0%;
-}
-
-.social-media    {
     margin-top: auto;
     text-align: center;
 }
